@@ -1,5 +1,5 @@
 # openCalc
-openCalc is an open source calculator that I am developing in order to teach myself the C++ language in the process. I plan on creating a very simple piece of software that'll be able to act as a basic calculator that'll be able to do the following:
+openCalc is an Open Source calculator that I am developing in order to start learning the C++ language. I plan on creating a very simple piece of software that'll have a compact and neat GUI and would be able to act as a basic calculator that could do the following:
 
 * Add
 * Subtract
